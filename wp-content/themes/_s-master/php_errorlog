@@ -1,0 +1,12 @@
+[01-Aug-2017 01:58:34 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newcaren/public_html/wp-content/themes/_s-master/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/newcaren/public_html/wp-content/themes/_s-master/index.php on line 15
+[03-Aug-2017 02:14:26 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newcaren/public_html/wp-content/themes/_s-master/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/newcaren/public_html/wp-content/themes/_s-master/index.php on line 15
+[04-Aug-2017 02:23:59 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newcaren/public_html/wp-content/themes/_s-master/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/newcaren/public_html/wp-content/themes/_s-master/index.php on line 15
